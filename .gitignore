@@ -1,6 +1,0 @@
-.DS_Store
-*.ipynb
-_config.yml
-.pydevproject
-.project
-./__pycache__
