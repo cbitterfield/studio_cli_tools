@@ -1,0 +1,5 @@
+## These Libraries are required for this to work
+ffmpeg
+xlsxwriter
+PyPDF2
+PIL
